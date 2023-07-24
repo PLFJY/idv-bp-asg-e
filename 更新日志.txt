@@ -1,3 +1,6 @@
+2023.7.24 ReleaseV5.3
+选手ID URL填充对接了新的URL
+
 2023.7.8 ReleaseV5.2
 修复了换边后客场logo丢失的问题
 
