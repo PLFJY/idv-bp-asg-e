@@ -1,3 +1,6 @@
+> [!WARNING]
+> 此项目已停止维护并存档如有相关需要请查看新作 => https://github.com/PLFJY/bp-sys-wpf
+---
 ![image](https://github.com/PLFJY/idv-bp-asg-e/assets/135627876/11cf7a46-854e-45cd-9650-fabc8be9fff9)
 # ASG第五人格BP展示软件
 作者：PLFJY  第五人格ASG赛事组导播  QQ：3424127335
